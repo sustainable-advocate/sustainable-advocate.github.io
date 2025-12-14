@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="pillar1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ba8a0"/>
+      <stop offset="100%" style="stop-color:#1e7a74"/>
+    </linearGradient>
+    <linearGradient id="pillar2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#22c55e"/>
+      <stop offset="100%" style="stop-color:#16a34a"/>
+    </linearGradient>
+    <linearGradient id="pillar3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="pillar4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#d97706"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8fafc"/>
+
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">CPC's Four-Pillar Transformation Strategy</text>
+
+  <!-- Base Platform -->
+  <rect x="50" y="340" width="700" height="20" rx="5" fill="#334155"/>
+  <text x="400" y="380" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#64748b">Responsible Innovation Foundation</text>
+
+  <!-- Pillar 1: Climate Action -->
+  <rect x="70" y="120" width="150" height="220" rx="8" fill="url(#pillar1)"/>
+  <text x="145" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">CLIMATE</text>
+  <text x="145" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">ACTION</text>
+  <text x="145" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Geothermal Pivot</text>
+  <text x="145" y="240" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Blue Hydrogen Hub</text>
+  <text x="145" y="260" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Asset Recycling</text>
+  <circle cx="145" cy="90" r="25" fill="#2ba8a0" stroke="white" stroke-width="2"/>
+  <text x="145" y="96" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="white">1</text>
+
+  <!-- Pillar 2: Circular Economy -->
+  <rect x="240" y="120" width="150" height="220" rx="8" fill="url(#pillar2)"/>
+  <text x="315" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">CIRCULAR</text>
+  <text x="315" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">ECONOMY</text>
+  <text x="315" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Biogas Upgrading</text>
+  <text x="315" y="240" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">CCU Partnership</text>
+  <text x="315" y="260" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Industrial Symbiosis</text>
+  <circle cx="315" cy="90" r="25" fill="#22c55e" stroke="white" stroke-width="2"/>
+  <text x="315" y="96" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="white">2</text>
+
+  <!-- Pillar 3: Governance -->
+  <rect x="410" y="120" width="150" height="220" rx="8" fill="url(#pillar3)"/>
+  <text x="485" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">ETHICAL</text>
+  <text x="485" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">GOVERNANCE</text>
+  <text x="485" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Glass Pipeline</text>
+  <text x="485" y="240" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Green Bonds</text>
+  <text x="485" y="260" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Green Skills Fund</text>
+  <circle cx="485" cy="90" r="25" fill="#3b82f6" stroke="white" stroke-width="2"/>
+  <text x="485" y="96" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="white">3</text>
+
+  <!-- Pillar 4: Community -->
+  <rect x="580" y="120" width="150" height="220" rx="8" fill="url(#pillar4)"/>
+  <text x="655" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">COMMUNITY</text>
+  <text x="655" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">ENGAGEMENT</text>
+  <text x="655" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Living Labs</text>
+  <text x="655" y="240" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Worker Transition</text>
+  <text x="655" y="260" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">Co-Design Process</text>
+  <circle cx="655" cy="90" r="25" fill="#f59e0b" stroke="white" stroke-width="2"/>
+  <text x="655" y="96" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="white">4</text>
+</svg>

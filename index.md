@@ -7,6 +7,9 @@ title: "The Energy Paradox: Why CPC's Survival Depends on Embracing the Transiti
 
 **A Wake-Up Call for Taiwan's Energy Giant**
 
+![Hero image: Renewable energy transition - solar panels and wind turbines representing Taiwan's clean energy future](assets/images/hero-energy-transition.jpg)
+*Image: The renewable energy landscape that Taiwan is racing toward. Source: Unsplash*
+
 ---
 
 **Assignment:** Imaginaries for Sustainable and Responsible Business
@@ -35,6 +38,9 @@ Taiwan's commitment to climate action is no longer aspirational; it is law. On 1
 
 *Sources: Taiwan 2050 Net-Zero Pathway[7]; Taiwan Ministry of Environment[3]*
 
+![Taiwan's electricity generation by source over time, showing the dominance of fossil fuels](assets/images/taiwan-energy-mix.svg)
+*Figure 1: Taiwan's electricity generation by source. Data: Our World in Data (CC-BY)*
+
 Beyond regulatory pressure, CPC confronts cascading legitimacy crises. The October 2022 Dalin refinery explosion caused community trauma rooted in decades of industrial accidents—symptoms of a company epitomising the "Decide-Announce-Defend" model where infrastructure is imposed without genuine partnership.[9] More recently, December 2025 prosecutors initiated investigations into alleged corruption within CPC's Third LNG Terminal project, with irregularities allegedly inflating costs from NT$9.4 billion to NT$25.3 billion.[10]
 
 For a company with CPC's emission intensity—6.38 metric tons of CO₂e per NT$1 million in revenue—this creates substantial forward financial liability.[1] Taiwan imports 97.4% of its energy, creating structural vulnerability that only clean energy transition can address.[8] In this context, Responsible Innovation is not a strategic option but an imperative for survival.
@@ -60,6 +66,9 @@ Through these dimensions, Responsible Innovation enables CPC to align the Triple
 ---
 
 ## 3. Strategic Framework: The Four Pillars of Transformation
+
+![CPC's Four-Pillar Transformation Strategy showing Climate Action, Circular Economy, Ethical Governance, and Community Engagement](assets/images/four-pillars.svg)
+*Figure 2: The Four Pillars of CPC's Responsible Innovation Strategy*
 
 ### Pillar 1: Climate Action & Net-Zero Transition
 
@@ -134,6 +143,9 @@ CPC's transformation contributes to UN Sustainable Development Goals: SDG 7 (Aff
 ---
 
 ## Conclusion
+
+![Ørsted transformation from DONG Energy (2009) to renewable energy leader (2019)](assets/images/orsted-transformation.svg)
+*Figure 3: The Ørsted Model - proof that strategic transformation is achievable for state energy companies*
 
 CPC's story does not have to end like Kodak—destroyed by technological disruption—or Blockbuster—eliminated by market transformation. It can end like Ørsted: a company that saw the future clearly, made decisive choices, and emerged as a global leader in the transition economy.[14]
 
