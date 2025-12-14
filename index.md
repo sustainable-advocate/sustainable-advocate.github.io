@@ -71,6 +71,9 @@ When you get these four dimensions right, something interesting happens: you ali
 ![CPC's Four-Pillar Transformation Strategy showing Climate Action, Circular Economy, Ethical Governance, and Community Engagement](assets/images/four-pillars.svg)
 *Figure 2: The Four Pillars of CPC's Responsible Innovation Strategy*
 
+![Systems Thinking Causal Loop Diagram showing feedback loops and leverage points across the four pillars](assets/images/four-pillars-system.svg)
+*Figure 3: Systems Thinking Analysis—How the four pillars interconnect through reinforcing loops (R1, R2) and balancing loops (B1), with leverage points (L1-L4) for strategic intervention*
+
 ### Pillar 1: Climate Action & Net-Zero Transition
 
 Incremental efficiency improvements won't cut it anymore. CPC needs a fundamental asset pivot.
@@ -164,7 +167,7 @@ That's not just good for CPC. It advances UN Sustainable Development Goals: SDG 
 ## The Bottom Line
 
 ![Ørsted transformation from DONG Energy (2009) to renewable energy leader (2019)](assets/images/orsted-transformation.svg)
-*Figure 3: The Ørsted Model - proof that strategic transformation is achievable for state energy companies*
+*Figure 4: The Ørsted Model - proof that strategic transformation is achievable for state energy companies*
 
 CPC's story doesn't have to end like Kodak—destroyed by technological disruption. Or Blockbuster—eliminated by market transformation. It can end like Ørsted: a company that saw the future clearly, made decisive choices, and emerged as a global leader in the transition economy.[14]
 
