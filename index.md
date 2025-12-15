@@ -5,6 +5,8 @@ title: "The Energy Paradox: Why CPC's Survival Depends on Embracing the Transiti
 
 # The Energy Paradox: Why CPC's Survival Depends on Embracing the Transition It Fears
 
+**By Lee Chen Hao** | UoB Student · Passionate about Taiwan's sustainable future
+
 **A Wake-Up Call for Taiwan's Energy Giant**
 
 ![Hero image: Renewable energy transition - solar panels and wind turbines representing Taiwan's clean energy future](assets/images/hero-energy-transition.jpg)
@@ -70,10 +72,10 @@ When you get these four dimensions right, something interesting happens: you ali
 ## The Four Pillars: A Roadmap for Transformation
 
 ![CPC's Four-Pillar Transformation Strategy showing Climate Action, Circular Economy, Ethical Governance, and Community Engagement](assets/images/four-pillars.svg)
-*Figure 2: The Four Pillars of CPC's Responsible Innovation Strategy*
+*Figure 3: The Four Pillars of CPC's Responsible Innovation Strategy*
 
 ![Systems Thinking Causal Loop Diagram showing feedback loops and leverage points across the four pillars](assets/images/four-pillars-system.svg)
-*Figure 3: Systems Thinking Analysis—How the four pillars interconnect through reinforcing loops (R1, R2) and balancing loops (B1), with leverage points (L1-L4) for strategic intervention*
+*Figure 4: Systems Thinking Analysis—How the four pillars interconnect through reinforcing loops (R1, R2) and balancing loops (B1), with leverage points (L1-L4) for strategic intervention*
 
 ### Pillar 1: Climate Action & Net-Zero Transition *(SDG 7: Affordable and Clean Energy; SDG 13: Climate Action)*
 
@@ -174,7 +176,7 @@ If CPC gets this right, it de-risks Taiwan's entire energy transition—addressi
 ## The Bottom Line
 
 ![Ørsted transformation from DONG Energy (2009) to renewable energy leader (2019)](assets/images/orsted-transformation.svg)
-*Figure 4: The Ørsted Model - proof that strategic transformation is achievable for state energy companies*
+*Figure 5: The Ørsted Model - proof that strategic transformation is achievable for state energy companies*
 
 CPC's story doesn't have to end like Kodak or Blockbuster. It can end like Ørsted: a company that saw the future clearly and emerged as a global leader in the transition economy.[14]
 
@@ -234,4 +236,4 @@ CPC's story doesn't have to end like Kodak or Blockbuster. It can end like Ørst
 
 ---
 
-*Published: 14 December 2025*
+*December 2025*
