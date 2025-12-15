@@ -3,7 +3,9 @@ layout: default
 title: "The Energy Paradox: Why CPC's Survival Depends on Embracing the Transition It Fears"
 ---
 
-# The Energy Paradox: Why CPC's Survival Depends on Embracing the Transition It Fears
+# [The Energy Paradox: Why CPC's Survival Depends on Embracing the Transition It Fears](https://sustainable-advocate.github.io)
+
+*This blog is published online to inspire wider impact and action. By a student from University of Birmingham Business School.*
 
 **A Wake-Up Call for Taiwan's Energy Giant**
 
