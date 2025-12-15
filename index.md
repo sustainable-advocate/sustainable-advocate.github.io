@@ -106,6 +106,8 @@ CPC should do something similar: gradually divest high-carbon petrochemical unit
 
 What about that controversial Third LNG Terminal? Reframe it as a future Blue Hydrogen Hub for heavy industry. Turn stranded infrastructure into critical hydrogen supply for Taiwan's decarbonisation.[13]
 
+**Government Support & Cost Feasibility:** Taiwan's Bureau of Energy allocated NT$5.67 billion (2024-2030) for geothermal development under the Renewable Energy Development Act. The Feed-in Tariff for geothermal (NT$5.1956/kWh) exceeds solar rates (NT$4.0-4.5/kWh), providing strong investment incentives.[7] CPC's existing drilling expertise reduces capital costs by an estimated 15-20% versus new market entrants—a critical competitive advantage that makes this pivot economically viable.
+
 ### Pillar 2: Circular Thinking & Regenerative Models *(SDG 12: Responsible Consumption and Production)*
 
 The old model is linear: extract, refine, waste. The new model? Symbiotic systems where waste becomes resource.
@@ -147,6 +149,17 @@ The message? This isn't about replacing you. It's about upgrading your skills. Y
 | Governance | Corruption scandal | Blockchain procurement, Green Bonds | Transparency |
 | Community | Conflict/distrust | Living Labs, co-design, worker retraining | Social license |
 
+**Table 3: ESG & SDG Alignment Matrix**
+
+| Pillar | ESG Dimension | Primary SDGs | Key Performance Indicators |
+|--------|---------------|--------------|----------------------------|
+| Climate Action | **E** - Environmental | SDG 7, SDG 13 | Emissions reduction (tCO₂e), renewable capacity (MW) |
+| Circular Economy | **E** - Environmental | SDG 12, SDG 9 | Waste diverted (%), resource efficiency ratio |
+| Governance | **G** - Governance | SDG 16, SDG 8 | Transparency score, procurement audit compliance |
+| Community | **S** - Social | SDG 8, SDG 11 | Jobs transitioned, community trust index |
+
+*This matrix demonstrates how CPC's four-pillar strategy systematically addresses all ESG dimensions while advancing multiple UN Sustainable Development Goals.*
+
 ---
 
 ## What Should CPC Actually Do?
@@ -167,16 +180,17 @@ Strategy is one thing. Execution is another. Here are four concrete moves:
 
 Let's be honest about the barriers:
 
-**Table 3: Implementation Barriers & Solutions**
+**Table 4: Implementation Barriers, Solutions & Timeline**
 
-| Barrier | Severity | Solution |
-|---------|----------|----------|
-| Regulatory rigidities (hydrogen classified as "dangerous gas") | HIGH | Regulatory sandbox approach |
-| Organisational culture (reliability over innovation) | HIGH | Identity pivot campaign |
-| Financial viability (short-term cost challenges) | MEDIUM | Green Bonds/blended finance |
-| Stranded asset risk | HIGH | Capital recycling strategy |
+| Barrier | Severity | Solution | Implementation Timeline |
+|---------|----------|----------|------------------------|
+| Regulatory rigidities (hydrogen as "dangerous gas") | HIGH | Regulatory sandbox designation | 2025-2026: Lobby government; 2027: Pilot operations |
+| Organisational culture (reliability over innovation) | HIGH | "Drilling for the Future" identity campaign | 2025 Q1: Campaign launch; 2026: Full organisational rollout |
+| Financial viability (short-term cost gaps) | MEDIUM | Green Bonds + blended finance model | 2025: First green bond issuance (NT$10B target) |
+| Stranded asset risk | HIGH | Capital recycling strategy | 2025-2030: Phased petrochemical unit divestment |
+| Skill gaps (petroleum-centric workforce) | MEDIUM | Green Skills Fund + Taipower partnership | 2025-2027: Retrain 2,000 workers annually |
 
-*Sources: DIGITIMES[23]; Sovacool & Griffiths[24]*
+*Sources: DIGITIMES[23]; Sovacool & Griffiths[24]; Taiwan Bureau of Energy[7]*
 
 ### The Bigger Picture
 
